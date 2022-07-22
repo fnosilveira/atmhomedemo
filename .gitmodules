@@ -2,3 +2,8 @@
 	path = it-brasil/it_brasil
 	url = git@github.com:it-brasil/it_brasil.git
 	branch = main
+
+[submodule "OCA/currency"]
+	path = OCA/currency
+	url = git@github.com:OCA/currency.git
+	branch = 14.0
